@@ -210,7 +210,7 @@
 
 ----------
 
-———— ☆☆☆ —— 返回 -> [史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md) <- 目录 —— ☆☆☆ ————
+———— ☆☆☆ —— 返回 -> [史上最简单的 IntelliJ IDEA 教程](../../README.md) <- 目录 —— ☆☆☆ ————
 
 
 
