@@ -1,0 +1,26 @@
+#第一课
+## 前言
+
+idea已经用了一段时间了,但是对idea的掌握还是不够熟练,通过学习这个教程希望能够让自己精通idea使用.
+
+## 通读全篇
+
+## 实用技巧
+- 快捷键
+
+|快捷键|介绍|
+|:------|:---------|
+|ctrl+F1|帮助提示
+|ctrl+F3|跳转到下一个选中字符的位置
+|ctrl+w |递进式选中代码块
+|ctrl+p |方法参数提示
+|ctrl+e |最近打开的文件记录列表
+|F2     |跳转下一个错误位置或者警告位置
+|F12    |返回前一个工具窗口
+
+``善用快捷键可以加速开发,一次又不能完全记住``
+- 查找jar包冲突
+    - [confict-jar.md](../articles/practical-skills/conflict-jar.md)
+- 恢复代码
+    - [recovery-code.md](../articles/practical-skills/recovery-code.md)
+
